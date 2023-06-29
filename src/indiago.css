@@ -1,0 +1,47 @@
+.mainnavbardiv{
+
+    width: 100%;
+    height: 10vh;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logonavbar{
+    width: 80px;
+    
+}
+.searchbar{
+
+    width: 550px;
+    height: 30px;
+    background-color: rgba(252, 246, 246, 0.918);
+    border-radius: 5px;
+    font-size: large;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.contactdiv{
+    width: 25%;
+    font-family: 'Rubik', sans-serif;;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#signupfont{
+    
+    font-family: 'Poppins', sans-serif;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: small;
+}.contacttag{
+    font-family: 'Poppins', sans-serif;
+    
+    text-decoration: none;
+}
+.signupinbtn{
+    border: 0;
+    width: 85px;
+    height: 35px;
+    box-shadow: 0 0 5px;
+}
