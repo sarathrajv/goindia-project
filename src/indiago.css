@@ -45,3 +45,166 @@
     height: 35px;
     box-shadow: 0 0 5px;
 }
+.navbarmaindiv{
+    width: 100%;
+    height: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.secondnavbarfonts{
+
+    color: beige;
+    font-family: 'Poppins', sans-serif;
+}
+.secondnavbarfontsred{
+    color: rgb(221, 41, 41);
+    font-family: 'Poppins', sans-serif;
+}
+.secondnavbarfontsgreen{
+    color: rgb(26, 243, 80);
+    font-family: 'Poppins', sans-serif;
+}
+.firstdiv{
+    
+    width:100% ;
+    height: 40px;
+    background-color: rgba(203, 199, 207, 0.61);
+    display: flex;
+    margin-top: 10px;
+    justify-content: start;
+    align-items: center;
+    
+    
+
+}
+.firstdivtext{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(216, 46, 46);
+    
+    width: 300px;
+    height: 40px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    
+    text-align: left;
+}.seconddiv{
+
+    width: 100%;
+    height: 80px;
+    background-color: rgba(255, 255, 255, 0.63);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    
+
+}
+.second-div-cmpny-images{
+width: 180px;
+height: 80px;
+
+}
+#whatif{
+   
+    font-family: 'Poppins', sans-serif;
+    color: white;
+
+  }
+  #fullsidenavbar{
+    background-color:rgb(7, 7, 92) ;
+    width: 250px;
+    height: 600px;
+  }
+  #mani{
+    
+    display: flex;
+    justify-content: space-around;
+    height: 40px ;
+    align-items: center;
+    
+    border-bottom: 1px solid black;
+    
+  }
+  #messagnav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+  }
+  #lastbutton{
+   
+    width: 40px;
+    height: 600px;
+    
+    display: flex ;
+    align-items: center;
+    width: max-content;
+  }
+  #mainsidefullnavbar{
+    display: flex;
+    
+    width: 100%;
+    height: 600px;
+  }
+  #discussionfont{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+  }
+  #marketstoriesdiv{
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+  }
+  #sentiment{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+  }
+  #marketlab{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+  }
+  #sectortab{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+  }
+  .iconcolorchange{
+    color: white;
+  }
+  #iconcolorchange1{
+    color: white;
+  }
+  .disscusionform{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(216, 46, 46);
+  }
+  .disscussiondiv{
+    width: 100%;
+    background-color: antiquewhite;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+.disscussiondiv1{
+    width: 50%;
+    height: 50px;
+   
+    display: flex;
+    align-items: center; 
+    justify-content: flex-start;
+}
+.disscussiondiv2{
+    width: 50%;
+    height: 50px;
+    
+    display: flex;
+    align-items: center; 
+    justify-content: flex-start;
+}
