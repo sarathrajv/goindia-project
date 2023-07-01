@@ -15,9 +15,9 @@ const SecondDiv = () => {
             <img className='second-div-cmpny-images' src={logoimage2} alt="" />
             <img className='second-div-cmpny-images' src={logoimage3} alt="" />
             <img className='second-div-cmpny-images' src={logoimage4} alt="" />
-            <img className='second-div-cmpny-images' src={logoimage5} alt="" />
-            <img className='second-div-cmpny-images' src={logoimage6} alt="" />
-            <img className='second-div-cmpny-images' src={logoimage7} alt="" />
+            <img className='second-div-cmpny-images1' src={logoimage5} alt="" />
+            <img className='second-div-cmpny-images1' src={logoimage6} alt="" />
+            <img className='second-div-cmpny-images1' src={logoimage7} alt="" />
             
 
 

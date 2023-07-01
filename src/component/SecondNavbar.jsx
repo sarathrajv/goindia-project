@@ -15,11 +15,11 @@ const SecondNavbar = () => {
             <h5 className='secondnavbarfonts' >BHARTIARTL</h5>
             <h5 className='secondnavbarfonts' >771.95</h5>
             <h5 className='secondnavbarfontsgreen' >0.69%</h5>
-            <h5 className='secondnavbarfonts' >HDFCBANK</h5>
-            <h5 className='secondnavbarfonts' >1,657.10</h5>
-            <h5 className='secondnavbarfontsgreen' >0.40%</h5>
-            <h5 className='secondnavbarfonts' >HINDUNLVR</h5>
-            <h5 className='secondnavbarfonts' >2,577.50</h5>
+            <h5 className='secondnavbarfontsmq' >HDFCBANK</h5>
+            <h5 className='secondnavbarfontsmq' >1,657.10</h5>
+            <h5 className='secondnavbarfontsgreenmq' >0.40%</h5>
+            <h5 className='secondnavbarfontsmq' >HINDUNLVR</h5>
+            <h5 className='secondnavbarfontsmq' >2,577.50</h5>
             <h5 className='secondnavbarfontsred' >0.36%</h5>
             <h5 className='secondnavbarfonts' >INDIGO</h5>
             <h5 className='secondnavbarfonts' >2,043.50</h5>

@@ -58,11 +58,19 @@
     color: beige;
     font-family: 'Poppins', sans-serif;
 }
+.secondnavbarfontsmq{
+    color: beige;
+    font-family: 'Poppins', sans-serif;
+}
 .secondnavbarfontsred{
     color: rgb(221, 41, 41);
     font-family: 'Poppins', sans-serif;
 }
 .secondnavbarfontsgreen{
+    color: rgb(26, 243, 80);
+    font-family: 'Poppins', sans-serif;
+}
+.secondnavbarfontsgreenmq{
     color: rgb(26, 243, 80);
     font-family: 'Poppins', sans-serif;
 }
@@ -107,6 +115,11 @@
 width: 180px;
 height: 80px;
 
+}
+.second-div-cmpny-images1{
+
+    width: 180px;
+height: 80px;
 }
 #whatif{
    
@@ -192,7 +205,7 @@ height: 80px;
   .disscussiondiv{
     width: 100%;
     
-    height: 800px;
+    height: 700px;
     display: flex;
     justify-content: space-around;
     
@@ -306,6 +319,16 @@ height: 80px;
     justify-content: space-around;
     align-items:center ;
 }
+.comment12{
+
+    width: 80%;
+    height: 30px;
+    
+
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+}
 .comment2{
     width: 80%;
     height: 80px;
@@ -405,3 +428,166 @@ height: 80px;
     border-radius: 20px;
 
 }
+/* ..................................mediadown....................*/ 
+
+@media(max-width:500px){
+    *{
+        overflow-x: hidden;
+    }
+#lastbutton{
+
+/* background-color: aqua; */
+
+height: 600px;
+
+}
+#database64img{
+   width: 220px;
+}
+.mainnavbardiv{
+    width: 100%;
+    /* background-color: blueviolet; */
+}
+.logonavbar{
+    width: 60px;
+}
+.searchbar{
+    width: 150px;
+}
+.contacttag{
+    display: none;
+}.signupinbtn{
+ height: 23px;
+
+}
+.contactdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* background-color: aqua; */
+    height: 60px;
+}
+.navbarmaindiv{
+    width: 100%;
+}
+
+
+
+.secondnavbarfonts{
+    font-size: x-small;
+}.secondnavbarfonts{
+    display: none;
+}.secondnavbarfontsred{
+    display: none;
+}
+.secondnavbarfontsgreen{
+    display: none;
+}
+.firstdiv{
+    width: 100%;
+}
+.second-div-cmpny-images1{
+    display: none;
+}
+.second-div-cmpny-images{
+    width: 70px;
+    height: 40px;
+
+}
+.seconddiv{
+    width: 100%;
+    height: 60px;
+}
+.disscussiondiv{
+    width: 100%;
+    /* background-color: chartreuse; */
+    height: 200vh;
+    
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.disscussiondiv1{
+    
+    width: 100%;
+    height: 100vh;
+   overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.buttonbigcontain{
+    /* background-color: chocolate; */
+    height: 10vh;
+    margin-top: 20px;
+}
+.infibeambackground{
+    /* background-color: crimson; */
+    height: 65vh;
+    margin-top: 20px;
+}.commentlikeall{
+    /* background-color: darkblue; */
+    width: 220px;
+   
+}
+.commentallfontfam{
+    font-size:x-small ;
+}
+.comment3{
+    /* background-color: blueviolet; */
+    width: 100%;
+    height: 40px;
+    
+}
+.comment1{
+    /* background-color: crimson; */
+    width: 100%;
+}
+.disscusionform{
+font-size: medium;
+}
+.secondcommentlike{
+    width: 100%;
+    height: 190px;
+}
+.infibeamimgdiv{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.buttonsectordiv{
+    width: 90%;
+}
+
+.disscussiondiv2{
+    width: 100%;
+}
+.spandiv{
+   
+    width: 100%;
+    height: 100px;
+}
+.navbarmaindiv{
+    overflow: hidden;
+}
+.firstdiv{
+    overflow: hidden;
+}
+.disscusionform{
+    overflow: hidden;
+}
+.comment1{
+    overflow: hidden;
+}
+   
+}
+
+
+
+
+
