@@ -436,7 +436,7 @@ height: 80px;
     }
 #lastbutton{
 
-/* background-color: aqua; */
+background-color: aqua;
 
 height: 600px;
 
@@ -446,7 +446,7 @@ height: 600px;
 }
 .mainnavbardiv{
     width: 100%;
-    /* background-color: blueviolet; */
+    background-color: blueviolet;
 }
 .logonavbar{
     width: 60px;
@@ -464,7 +464,7 @@ height: 600px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    /* background-color: aqua; */
+    background-color: aqua;
     height: 60px;
 }
 .navbarmaindiv{
@@ -494,13 +494,13 @@ height: 600px;
     height: 40px;
 
 }
-.seconddiv{
+/*.seconddiv{
     width: 100%;
     height: 60px;
 }
 .disscussiondiv{
     width: 100%;
-    /* background-color: chartreuse; */
+    background-color: chartreuse;
     height: 200vh;
     
     overflow: hidden;
@@ -519,16 +519,16 @@ height: 600px;
     flex-direction: column;
 }
 .buttonbigcontain{
-    /* background-color: chocolate; */
+    background-color: chocolate;
     height: 10vh;
     margin-top: 20px;
 }
 .infibeambackground{
-    /* background-color: crimson; */
+    background-color: crimson;
     height: 65vh;
     margin-top: 20px;
 }.commentlikeall{
-    /* background-color: darkblue; */
+    background-color: darkblue;
     width: 220px;
    
 }
@@ -536,13 +536,13 @@ height: 600px;
     font-size:x-small ;
 }
 .comment3{
-    /* background-color: blueviolet; */
+    background-color: blueviolet;
     width: 100%;
     height: 40px;
     
 }
 .comment1{
-    /* background-color: crimson; */
+    background-color: crimson;
     width: 100%;
 }
 .disscusionform{
@@ -584,8 +584,100 @@ font-size: medium;
 .comment1{
     overflow: hidden;
 }
-   
-}
+    */
+    *{
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+      }
+      .goindia{
+        width: 120px;
+        height: 60px;
+    
+      }
+      .inputbar{
+        width: 130px;
+        height: 45px;
+      }
+      .icon{
+        width: 40px;
+        height: 45px;
+      }
+      .contact{
+        font-size: 10px;
+      }
+      .navbutton{
+        width: 60px;
+        height: 30px;
+        font-size: 12px;
+      }
+      .navbarfull{
+        
+        display: flex;
+        justify-content:space-around ;
+        align-items: center;
+      }
+      .inputfull{
+       padding-left: 5px;
+      
+       width: 400px;
+      }
+      /* ................................ */
+    
+      .navtrade{
+        font-size: 5px;
+      }
+      .firstbodyfull{
+        height: 140px;
+    
+      }
+      .bodyphotos{
+        width: 30px;
+        height: 60px;
+      }
+      .photobody{
+        height: 80px;
+      }
+      
+      .disscussiondiv{
+        display: flex;
+        flex-direction: column;
+        height: 1400px;
+      }
+      .disscussiondiv1{
+        height: 800px;
+        width: 100%;
+      }
+      .buttonbigcontain{
+        margin-top: 10px;
+        width: 100%;
+      }
+      .buttonsectordiv{
+        width: 95%;
+      }
+      .infibeamimgdiv{
+        width: 95%;
+      }
+      .commentlikeall1{
+        width: 95%;
+      }
+      .infibeambackground{
+        height: 400px;
+      }
+      .secondcommentlike{
+        height: 180px;
+      }
+    
+      .disscussiondiv2{
+        height: 700px;
+        width: 100%;
+      }
+      .spandiv{
+        font-size: 11px;
+      }
+    
+    }
+
 
 
 
