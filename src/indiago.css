@@ -436,7 +436,7 @@ height: 80px;
     }
 #lastbutton{
 
-background-color: aqua;
+
 
 height: 600px;
 
@@ -446,7 +446,7 @@ height: 600px;
 }
 .mainnavbardiv{
     width: 100%;
-    background-color: blueviolet;
+   
 }
 .logonavbar{
     width: 60px;
@@ -464,7 +464,7 @@ height: 600px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background-color: aqua;
+    
     height: 60px;
 }
 .navbarmaindiv{
